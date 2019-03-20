@@ -1,43 +1,9 @@
-<!DOCTYPE html>
-<html lang="ru">
-<head>
-        <meta charset="utf-8" />
-        <title>Паруса</title>
-        <link rel="stylesheet" href="/theme/css/main.css" />
-        <link href="/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="sail Atom Feed" />
-</head>
-
-<body id="index" class="home">
-        <header id="banner" class="body">
-                <h1><a href="/">sail </a></h1>
-                <nav><ul>
-                    <li class="active"><a href="/category/tema.html">Тема</a></li>
-                </ul></nav>
-        </header><!-- /#banner -->
-<section id="content" class="body">
-  <article>
-    <header>
-      <h1 class="entry-title">
-        <a href="/parusa.html" rel="bookmark"
-           title="Permalink to Паруса">Паруса</a></h1>
-    </header>
-
-    <div class="entry-content">
-<footer class="post-info">
-        <abbr class="published" title="2018-03-20T11:16:14+03:00">
-                Published: Tue 20 March 2018
-        </abbr>
-
-        <address class="vcard author">
-                By                         <a class="url fn" href="/author/cifer.html">cifer</a>
-        </address>
-<p>In <a href="/category/tema.html">Тема</a>.</p>
-<p>tags: <a href="/tag/parusa.html">Паруса</a> </p>
-</footer><!-- /.post-info -->      <p>Про паруса</p>
-<div class="section" id="id2">
-<h2>Грот</h2>
-<p>This will be turned into <abbr title="HyperText Markup Language">HTML</abbr>.</p>
-<p>Более подробно про паруса
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>sail - Тема</title><link href="/" rel="alternate"></link><link href="/feeds/tema.atom.xml" rel="self"></link><id>/</id><updated>2018-03-20T11:16:14+03:00</updated><entry><title>Паруса</title><link href="/parusa.html" rel="alternate"></link><published>2018-03-20T11:16:14+03:00</published><updated>2018-03-20T11:16:14+03:00</updated><author><name>cifer</name></author><id>tag:None,2018-03-20:/parusa.html</id><summary type="html">&lt;p&gt;Про паруса&lt;/p&gt;
+&lt;div class="section" id="id2"&gt;
+&lt;h2&gt;Грот&lt;/h2&gt;
+&lt;p&gt;This will be turned into &lt;abbr title="HyperText Markup Language"&gt;HTML&lt;/abbr&gt;.&lt;/p&gt;
+&lt;p&gt;Более подробно про паруса
 Более подробно про паруса
 Более подробно про паруса
 Более подробно про паруса
@@ -47,6 +13,11 @@
 Более подробно про паруса
 Более подробно про паруса
 Более подробно про паруса
+Более …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;p&gt;Про паруса&lt;/p&gt;
+&lt;div class="section" id="id2"&gt;
+&lt;h2&gt;Грот&lt;/h2&gt;
+&lt;p&gt;This will be turned into &lt;abbr title="HyperText Markup Language"&gt;HTML&lt;/abbr&gt;.&lt;/p&gt;
+&lt;p&gt;Более подробно про паруса
 Более подробно про паруса
 Более подробно про паруса
 Более подробно про паруса
@@ -1056,41 +1027,15 @@
 Более подробно про паруса
 Более подробно про паруса
 Более подробно про паруса
-Более подробно про паруса</p>
-</div>
-
-    </div><!-- /.entry-content -->
-
-  </article>
-</section>
-        <section id="extras" class="body">
-                <div class="blogroll">
-                        <h2>links</h2>
-                        <ul>
-                            <li><a href="http://getpelican.com/">Pelican</a></li>
-                            <li><a href="http://python.org/">Python.org</a></li>
-                            <li><a href="http://jinja.pocoo.org/">Jinja2</a></li>
-                            <li><a href="#">You can modify those links in your config file</a></li>
-                        </ul>
-                </div><!-- /.blogroll -->
-                <div class="social">
-                        <h2>social</h2>
-                        <ul>
-                            <li><a href="/feeds/all.atom.xml" type="application/atom+xml" rel="alternate">atom feed</a></li>
-
-                            <li><a href="#">You can add links in your config file</a></li>
-                            <li><a href="#">Another social link</a></li>
-                        </ul>
-                </div><!-- /.social -->
-        </section><!-- /#extras -->
-
-        <footer id="contentinfo" class="body">
-                <address id="about" class="vcard body">
-                Proudly powered by <a href="http://getpelican.com/">Pelican</a>, which takes great advantage of <a href="http://python.org">Python</a>.
-                </address><!-- /#about -->
-
-                <p>The theme is by <a href="http://coding.smashingmagazine.com/2009/08/04/designing-a-html-5-layout-from-scratch/">Smashing Magazine</a>, thanks!</p>
-        </footer><!-- /#contentinfo -->
-
-</body>
-</html>
+Более подробно про паруса
+Более подробно про паруса
+Более подробно про паруса
+Более подробно про паруса
+Более подробно про паруса
+Более подробно про паруса
+Более подробно про паруса
+Более подробно про паруса
+Более подробно про паруса
+Более подробно про паруса&lt;/p&gt;
+&lt;/div&gt;
+</content><category term="Паруса"></category></entry></feed>
